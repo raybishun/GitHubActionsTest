@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\BBIS\\OneDrive - Bits & Bytes Information Systems, LLC\\Git_Public\\CS\\WebAPI\\WeatherWebAPI\\WeatherWebAPI\\WeatherWebAPI.csproj": {}
+    "C:\\BBIS\\OneDrive - Bits & Bytes Information Systems, LLC\\Git_Public\\CS\\WebAPI\\GitHubActionsTest\\WeatherWebAPI\\WeatherWebAPI\\WeatherWebAPI.csproj": {}
   },
   "projects": {
-    "C:\\BBIS\\OneDrive - Bits & Bytes Information Systems, LLC\\Git_Public\\CS\\WebAPI\\WeatherWebAPI\\WeatherWebAPI\\WeatherWebAPI.csproj": {
+    "C:\\BBIS\\OneDrive - Bits & Bytes Information Systems, LLC\\Git_Public\\CS\\WebAPI\\GitHubActionsTest\\WeatherWebAPI\\WeatherWebAPI\\WeatherWebAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\BBIS\\OneDrive - Bits & Bytes Information Systems, LLC\\Git_Public\\CS\\WebAPI\\WeatherWebAPI\\WeatherWebAPI\\WeatherWebAPI.csproj",
+        "projectUniqueName": "C:\\BBIS\\OneDrive - Bits & Bytes Information Systems, LLC\\Git_Public\\CS\\WebAPI\\GitHubActionsTest\\WeatherWebAPI\\WeatherWebAPI\\WeatherWebAPI.csproj",
         "projectName": "WeatherWebAPI",
-        "projectPath": "C:\\BBIS\\OneDrive - Bits & Bytes Information Systems, LLC\\Git_Public\\CS\\WebAPI\\WeatherWebAPI\\WeatherWebAPI\\WeatherWebAPI.csproj",
+        "projectPath": "C:\\BBIS\\OneDrive - Bits & Bytes Information Systems, LLC\\Git_Public\\CS\\WebAPI\\GitHubActionsTest\\WeatherWebAPI\\WeatherWebAPI\\WeatherWebAPI.csproj",
         "packagesPath": "C:\\Users\\Ray\\.nuget\\packages\\",
-        "outputPath": "C:\\BBIS\\OneDrive - Bits & Bytes Information Systems, LLC\\Git_Public\\CS\\WebAPI\\WeatherWebAPI\\WeatherWebAPI\\obj\\",
+        "outputPath": "C:\\BBIS\\OneDrive - Bits & Bytes Information Systems, LLC\\Git_Public\\CS\\WebAPI\\GitHubActionsTest\\WeatherWebAPI\\WeatherWebAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
